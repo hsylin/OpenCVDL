@@ -60,7 +60,7 @@ Provides four features for classifying images into 10 different classes in CIFAR
 - **Show Training/Validation Accuracy and Loss**: Displays a graph of training and validation accuracy/loss.
 - **Inference**: Load an image and use the trained model to classify it, displaying the predicted class label and probability distribution.
 
-# HW2
+# Homework 2 
 
 [Assignment Requirements Slide]
 (https://github.com/hsylin/OpenCVDL/raw/main/HW2/OpenCv_Hw2_Q_20231205_V1B3.pptx)
