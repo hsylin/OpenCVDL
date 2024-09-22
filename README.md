@@ -1,6 +1,6 @@
 # Homework 1 
 
-[Assignment Requirements Slide](https://github.com/hsylin/OpenCVDL/raw/main/HW1/OpenCv_Hw_1_Q_20231024_V1B4.pptx)
+[Assignment Requirements Slide for HW1](https://github.com/hsylin/OpenCVDL/raw/main/HW1/OpenCv_Hw_1_Q_20231024_V1B4.pptx)
 
 ## Environment
 
@@ -62,8 +62,7 @@ Provides four features for classifying images into 10 different classes in CIFAR
 
 # Homework 2 
 
-[Assignment Requirements Slide]
-(https://github.com/hsylin/OpenCVDL/raw/main/HW2/OpenCv_Hw2_Q_20231205_V1B3.pptx)
+[Assignment Requirements Slide for HW2](https://github.com/hsylin/OpenCVDL/raw/main/HW2/OpenCv_Hw2_Q_20231205_V1B3.pptx)
 
 ## Environment
 
