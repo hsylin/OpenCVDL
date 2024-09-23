@@ -62,7 +62,7 @@ Provides four features for classifying images into 10 different classes in CIFAR
 
 ## Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aG4lePK26F8/0.jpg)](https://www.youtube.com/watch?v=aG4lePK26F8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3ojSweaEfbk/0.jpg)](https://www.youtube.com/watch?v=3ojSweaEfbk)
 
 # Homework 2 
 
@@ -140,4 +140,4 @@ Offers four features for classifying images of cats and dogs:
 
 ## Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LaQVYMPd67k&ab/0.jpg)](https://www.youtube.com/watch?v=LaQVYMPd67k&ab)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LaQVYMPd67k/0.jpg)](https://www.youtube.com/watch?v=LaQVYMPd67k)
