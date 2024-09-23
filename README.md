@@ -60,6 +60,10 @@ Provides four features for classifying images into 10 different classes in CIFAR
 - **Show Training/Validation Accuracy and Loss**: Displays a graph of training and validation accuracy/loss.
 - **Inference**: Load an image and use the trained model to classify it, displaying the predicted class label and probability distribution.
 
+## Demo Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aG4lePK26F8/0.jpg)](https://www.youtube.com/watch?v=aG4lePK26F8)
+
 # Homework 2 
 
 [Assignment Requirements Slide for HW2](https://github.com/hsylin/OpenCVDL/raw/main/HW2/OpenCv_Hw2_Q_20231205_V1B3.pptx)
@@ -133,3 +137,7 @@ Offers four features for classifying images of cats and dogs:
 - **Show ResNet50 Model Structure**: Display the architecture of the ResNet50 model.
 - **Random Erasing**: Compare classification accuracy with and without random erasing as a data augmentation technique.
 - **Inference**: Load an image, classify it using the trained model, and display the predicted class label.
+
+## Demo Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LaQVYMPd67k&ab/0.jpg)](https://www.youtube.com/watch?v=LaQVYMPd67k&ab)
