@@ -66,7 +66,7 @@ Provides four features for classifying images into 10 different classes in CIFAR
 
 # Homework 2 
 
-[Assignment Requirements for HW2](https://github.com/hsylin/OpenCVDL/blob/main/OpenCv_Hw_1.pdf)
+[Assignment Requirements for HW2](https://github.com/hsylin/OpenCVDL/blob/main/OpenCv_Hw_2.pdf)
 
 ## Environment
 
